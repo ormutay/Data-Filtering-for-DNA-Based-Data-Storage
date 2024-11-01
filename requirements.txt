@@ -1,0 +1,7 @@
+biopython
+matplotlib
+scipy
+numpy
+hyperopt
+pandas
+Bio
